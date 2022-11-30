@@ -6,4 +6,5 @@ This repository consist of my Dashboard Portfolio and Query
 #### Data on orders placed by customers on a grocery app
 * Dataset source: [Sales]()
 * Language used for querying: [PostgreSQL](https://www.postgresql.org/)
+* Here is my [Query] (https://github.com/fauziaya/Tableau-dashboard/blob/main/Customer%20Analysis.sql)
 * See my Dashboard [here](https://public.tableau.com/app/profile/fauzia.yumna.ayupuspita/viz/CostumerAnalysisDashboard/Dashboard1)
