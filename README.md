@@ -10,7 +10,7 @@ This repository consist of my Dashboard Portfolio and Query
 * See my Dashboard [here](https://public.tableau.com/app/profile/fauzia.yumna.ayupuspita/viz/CostumerAnalysisDashboard/Dashboard1)
 
 ### 2. [Netflix](https://public.tableau.com/app/profile/fauzia.yumna.ayupuspita/viz/NetflixMovieandShow/Dashboard1)
-* Dataset source: [Datarade](https://datarade.ai/data-products/netflix-movies-and-tv-shows-data-scraping-services-extract-actowiz-appliance-of-data-i)
+* Dataset source: [Dataset](https://datarade.ai/data-products/netflix-movies-and-tv-shows-data-scraping-services-extract-actowiz-appliance-of-data-i)
 * See my Dashboard [here](https://public.tableau.com/app/profile/fauzia.yumna.ayupuspita/viz/NetflixMovieandShow/Dashboard1)
 
 ### 3. [Maven Pizza Analysis](https://public.tableau.com/app/profile/fauzia.yumna.ayupuspita/viz/MavenPizzaAnalysis/Dashboard1)
@@ -20,5 +20,5 @@ This repository consist of my Dashboard Portfolio and Query
 * See my Dashboard [here](https://public.tableau.com/app/profile/fauzia.yumna.ayupuspita/viz/MavenPizzaAnalysis/Dashboard1)
 
 ### 4. [Singapore Airbnbs Listing](https://public.tableau.com/app/profile/fauzia.yumna.ayupuspita/viz/SingaporeAirbnbListing_16722129097410/Dashboard1)
-* Dataset source: [Datarade](https://datarade.ai/data-products/netflix-movies-and-tv-shows-data-scraping-services-extract-actowiz-appliance-of-data-i)
+* Dataset source: [Dataset](https://github.com/fauziaya/tableau_dashboard/blob/main/airbnbs_listings.csv.zip)
 * See my Dashboard [here](https://public.tableau.com/app/profile/fauzia.yumna.ayupuspita/viz/SingaporeAirbnbListing_16722129097410/Dashboard1)
