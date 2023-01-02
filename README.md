@@ -18,3 +18,7 @@ This repository consist of my Dashboard Portfolio and Query
 * Language used for querying: [PostgreSQL](https://www.postgresql.org/)
 * See my queries [here](https://github.com/fauziaya/SQL/blob/main/Pizza%20Sales.sql)
 * See my Dashboard [here](https://public.tableau.com/app/profile/fauzia.yumna.ayupuspita/viz/MavenPizzaAnalysis/Dashboard1)
+
+### 4. [Singapore Airbnbs Listing](https://public.tableau.com/app/profile/fauzia.yumna.ayupuspita/viz/SingaporeAirbnbListing_16722129097410/Dashboard1)
+* Dataset source: [Datarade](https://datarade.ai/data-products/netflix-movies-and-tv-shows-data-scraping-services-extract-actowiz-appliance-of-data-i)
+* See my Dashboard [here](https://public.tableau.com/app/profile/fauzia.yumna.ayupuspita/viz/SingaporeAirbnbListing_16722129097410/Dashboard1)
