@@ -22,3 +22,6 @@ This repository consist of my Dashboard Portfolio and Query
 ### 4. [Singapore Airbnbs Listing](https://public.tableau.com/app/profile/fauzia.yumna.ayupuspita/viz/SingaporeAirbnbListing_16722129097410/Dashboard1)
 * Dataset source: [Dataset](https://github.com/fauziaya/tableau_dashboard/blob/main/airbnbs_listings.csv.zip)
 * See my Dashboard [here](https://public.tableau.com/app/profile/fauzia.yumna.ayupuspita/viz/SingaporeAirbnbListing_16722129097410/Dashboard1)
+
+### 5. [Superstore Sales Analysis](https://public.tableau.com/app/profile/fauzia.yumna.ayupuspita/viz/SupermallSales/Dashboard1)
+* See my dashboard [here](https://public.tableau.com/app/profile/fauzia.yumna.ayupuspita/viz/SupermallSales/Dashboard1)
